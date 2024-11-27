@@ -1,5 +1,5 @@
 ## Typescript Architecture
-The below points are the most important features of the Typescript. They are:
+The below points are the most important features of the Typescript. They are:-
 1. TypeScript Core Compiler
 
     core.ts        It checks the code structure and keywords.
