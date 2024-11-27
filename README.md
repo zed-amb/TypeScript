@@ -1,4 +1,4 @@
-Typescript Architecture
+## Typescript Architecture
 1. TypeScript Core Compiler
 
     core.ts        It checks the code structure and keywords.
